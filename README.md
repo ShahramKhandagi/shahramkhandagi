@@ -15,6 +15,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShahramKhandagi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShahramKhandagi&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+## Donate me
+[![Donate](https://img.shields.io/badge/Donate-%230095D5.svg?style=flat&logo=handshake&logoColor=white)](https://wallet.ezpay.ir/pid/au65mabmkz)
+
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShahramKhandagi&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
