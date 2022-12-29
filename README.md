@@ -1,8 +1,8 @@
 # 💫About Me :
 👦Hey I am Shahram                      
-🚁Here I share everything I know about Android application development                               
+🚁Here I share everything I know about Android application development especially with Kotlin                             
 🎪I hope you enjoy the content and it will be useful for you
-
+🧩In the way of Learning Flutter
 
 
 ## 🌐Socials
