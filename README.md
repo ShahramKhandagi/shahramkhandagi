@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/khandagishahram" target="blank"><img src="https://img.shields.io/twitter/follow/khandagishahram?logo=twitter&style=for-the-badge" alt="khandagishahram" /></a> </p>
 
-- 🔭 I’m currently working on **CoffeeChin**
+- 🔭 I’m currently working on **online Shop project**
 
 - 🌱 I’m currently learning **Dart & Flutter**
 
