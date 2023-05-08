@@ -25,7 +25,10 @@
 <a href="https://t.me/kotlinbox" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="kotlinbox" height="30" width="40" /></a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase,figma,flutter,dart,git,gradle,mysql,sqlite,xd,postman,postgres&perline=3)](https://skillicons.dev)
+# My Skills and Technologies
+
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase,figma,flutter,dart,git,gradle,mysql,sqlite,xd,postman,postgres&theme=light)](https://skillicons.dev)
+
 
 
 
