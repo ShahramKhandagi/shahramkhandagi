@@ -20,15 +20,15 @@
 ## Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/khandagishahram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khandagishahram" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahram-khandagi-988161260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahram-khandagi-988161260" height="30" width="40" /></a>
-<a href="https://instagram.com/shahramkhandagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahramkhandagi" height="30" width="40" /></a>
+<a href="https://twitter.com/khandagishahram" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="khandagishahram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shahram-khandagi-988161260" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="shahram-khandagi-988161260" height="30" width="40" /></a>
+<a href="https://instagram.com/shahramkhandagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="shahramkhandagi" height="30" width="40" /></a>
 <a href="https://t.me/kotlinbox" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="kotlinbox" height="30" width="40" /></a>
 </p>
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase,figma,flutter,dart,git,gradle,mysql,sqlite,xd,postman,postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase,figma,flutter,dart,git,gradle,mysql,vscode,sqlite,xd,postman,postgres&theme=dark)](https://skillicons.dev)
 
 
 
