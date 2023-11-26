@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/khandagishahram" target="blank"><img src="https://img.shields.io/twitter/follow/khandagishahram?logo=twitter&style=for-the-badge" alt="khandagishahram" /></a> </p>
 
-- 🔭 I’m currently working on **online Shop project**
+- 🔭 I am currently working on my **apps** which will be **released** in the **markets** soon...
 
-- 🌱 I’m currently learning **Dart & Flutter**
+- 🌱 I’m currently working **Dart & Flutter**
 
 - 📝 I start to write articles soon on [virgool.io/@shahramkhandagi](virgool.io/@shahramkhandagi)
 
