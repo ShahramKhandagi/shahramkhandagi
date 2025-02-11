@@ -12,7 +12,6 @@
 - 🔭 I am currently working on my **apps** which will be **released** in the **markets** soon...
 
 - 🌱 I’m currently working **Dart & Flutter**
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="71" height="71" /></div>
 - 📝 I start to write articles soon on [virgool.io/@shahramkhandagi](virgool.io/@shahramkhandagi)
 
 - 📫 How to reach me **shahramkhandagi@gmail.com**
