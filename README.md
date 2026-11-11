@@ -45,11 +45,19 @@ Hi, I'm **Shahram Khandagi**, an Android Developer passionate about building mob
 
 ---
 
-### 📊 GitHub Statistics
+### 📱 Android Development
 
-![GitHub Stats](https://ghstats.dev/api/card?username=ShahramKhandagi)
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/BUILDING%20ANDROID%20EXPERIENCES-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84"
+    width="100%"
+    alt="Building Android Experiences"
+  />
+</p>
 
-![Top Languages](https://ghstats.dev/api/languages?username=ShahramKhandagi)
+<p align="center">
+  <sub>Turning ideas into practical mobile experiences.</sub>
+</p>
 
 
 ---
