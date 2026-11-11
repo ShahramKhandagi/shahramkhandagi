@@ -47,14 +47,10 @@ Hi, I'm **Shahram Khandagi**, an Android Developer passionate about building mob
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <a href="https://github.com/ShahramKhandagi">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=ShahramKhandagi&show_icons=true&theme=github_dark&hide_border=true"
-      alt="Shahram Khandagi's GitHub Statistics"
-    />
-  </a>
-</p>
+![GitHub Stats](https://ghstats.dev/api/card?username=ShahramKhandagi)
+
+![Top Languages](https://ghstats.dev/api/languages?username=ShahramKhandagi)
+
 
 ---
 
