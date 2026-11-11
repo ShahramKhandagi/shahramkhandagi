@@ -48,10 +48,10 @@ Hi, I'm **Shahram Khandagi**, an Android Developer passionate about building mob
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/ShahramKhandagi">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"
-      alt="GitHub Statistics"
+      src="https://github-readme-stats.vercel.app/api?username=ShahramKhandagi&show_icons=true&theme=github_dark&hide_border=true"
+      alt="Shahram Khandagi's GitHub Statistics"
     />
   </a>
 </p>
