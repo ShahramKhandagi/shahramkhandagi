@@ -1,37 +1,87 @@
-[![MasterHead](https://1.bp.blogspot.com/-aKXUmGe_Cdk/YACmKq9d1ZI/AAAAAAAAP_o/KkKe1xVCL0weBvDApumCnFBx63VXBEoJgCLcBGAsYHQ/s0/more-productivity-with-Kotlin-header.png)](https://github.com/ShahramKhandagi)
-
-<h1 align="center">Hi 👋, I'm Shahram Khandagi</h1>
-<h3 align="center">A Android developer</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/6352cb28262707.5637231a2a4a7.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahramkhandagi&label=Profile%20views&color=0e75b6&style=flat" alt="shahramkhandagi" /> </p>
+<!-- Shahram Khandagi | GitHub Profile README -->
 
-<p align="left"> <a href="https://twitter.com/khandagishahram" target="blank"><img src="https://img.shields.io/twitter/follow/khandagishahram?logo=twitter&style=for-the-badge" alt="khandagishahram" /></a> </p>
-
-- 🔭 I am currently working on my **apps** which will be **released** in the **markets** soon...
-
-- 🌱 I’m currently working **Dart & Flutter**
-- 📝 I start to write articles soon on [virgool.io/@shahramkhandagi](virgool.io/@shahramkhandagi)
-
-- 📫 How to reach me **shahramkhandagi@gmail.com**
-
-## Connect with me:
-
-<p align="left">
-<a href="https://twitter.com/khandagishahram" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="khandagishahram" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahram-khandagi-988161260" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="shahram-khandagi-988161260" height="30" width="40" /></a>
-<a href="https://instagram.com/shahramkhandagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="shahramkhandagi" height="30" width="40" /></a>
-<a href="https://t.me/kotlinbox" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="kotlinbox" height="30" width="40" /></a>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0d1117&text=Shahram%20Khandagi&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Android%20Developer&descSize=18&descAlignY=65&animation=fadeIn"
+    width="100%"
+    alt="Shahram Khandagi - Android Developer"
+  />
 </p>
 
-## My Skills
+<p align="center">
+  <strong>Android Developer | Kotlin Enthusiast</strong>
+  <br />
+  Building Android applications with a focus on functionality and user experience.
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,java,firebase,figma,flutter,dart,git,gradle,mysql,vscode,sqlite,xd,postman,postgres&theme=dark)](https://skillicons.dev)
+---
 
+### 👨‍💻 About Me
 
+Hi, I'm **Shahram Khandagi**, an Android Developer passionate about building mobile applications and exploring Android technologies.
 
+- 💼 Currently working as a **Supervisor at SabzLearn**.
+- 📱 Developing Android applications for **Cafe Bazaar**, with upcoming releases planned for the Cafe Bazaar marketplace.
+- 🚀 I am currently working on my apps, which will be released on Cafe Bazaar soon.
+- 🎯 Focused on building effective, reliable, and user-friendly Android applications.
+- 📚 Always exploring new approaches to Android development.
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/shahramkhaE"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shahramkhaE" /></a></p><br><br>
+### 🛠️ Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,firebase&theme=dark" alt="Kotlin, Java, Android Studio and Firebase" />
+</p>
+
+### 🎯 Current Focus
+
+| Area | Focus |
+|---|---|
+| Android Development | Building native Android applications |
+| Current Projects | Developing apps for Cafe Bazaar |
+| Professional Role | Supervisor at SabzLearn |
+| Learning Goals | Building more effective mobile applications |
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ShahramKhandagi&show_icons=true&theme=github_dark&hide_border=true"
+    height="165"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahramKhandagi&layout=compact&theme=github_dark&hide_border=true"
+    height="165"
+    alt="Top Programming Languages"
+  />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shahram-khandagi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ShahramKhandagi">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/kotlinbox">
+    <img src="https://img.shields.io/badge/Telegram-KotlinBox-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="KotlinBox Telegram Channel" />
+  </a>
+  <a href="https://instagram.com/sh.khandagi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:shahramkhandagi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Thanks for visiting my profile! ⭐</sub>
+</p>
