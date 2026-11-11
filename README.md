@@ -48,16 +48,12 @@ Hi, I'm **Shahram Khandagi**, an Android Developer passionate about building mob
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ShahramKhandagi&show_icons=true&theme=github_dark&hide_border=true"
-    height="165"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShahramKhandagi&layout=compact&theme=github_dark&hide_border=true"
-    height="165"
-    alt="Top Programming Languages"
-  />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"
+      alt="GitHub Statistics"
+    />
+  </a>
 </p>
 
 ---
